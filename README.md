@@ -8,7 +8,7 @@ Charles Sin Portfolio - Github Develeper Search Engine Using Nextjs 13
 
 ## Screenshot
 
-![alt cover]()
+![alt cover](https://github-dev-search-engine.vercel.app/cover.jpg)
 
 ## Introduction
 
