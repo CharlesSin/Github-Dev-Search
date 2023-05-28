@@ -11,7 +11,6 @@ const Home = () => {
 
   const getUser = async (username: string) => {
     const res = await fetch(`https://api.github.com/users/${username}`);
-    console.log(res);
     if (!res.ok) {
       setUser(null);
       setError("User not found");
